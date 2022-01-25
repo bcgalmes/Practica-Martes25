@@ -1,6 +1,18 @@
 .zigzag {
     display: flex;
 }
+.zigzag_drch {
+    /*flex-direction: row-reverse;*/
+}
+
 .galeria {
+    width: 90vw;
+}
+
+.newsletter {
+    display: flex;
+}
+
+.multi {
     display: flex;
 }
