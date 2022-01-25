@@ -1,6 +1,8 @@
 .contenedor {
     padding: 0 20px;
     background-color: #cecdcd;
+    font-size: 18px;
+    font-family: sans-serif;
 }
 
 .zigzag {
