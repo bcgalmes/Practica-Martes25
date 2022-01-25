@@ -1,3 +1,8 @@
+.contenedor {
+    padding: 0 20px;
+    background-color: #cecdcd;
+}
+
 .zigzag {
     display: flex;
 }
